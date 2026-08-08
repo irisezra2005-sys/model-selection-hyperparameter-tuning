@@ -1,0 +1,9 @@
+Required Libraries and Tools
+
+Python
+Google Colab
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-Learn
